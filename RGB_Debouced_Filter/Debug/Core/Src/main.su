@@ -1,0 +1,4 @@
+main.c:18:5:main	8	static
+main.c:137:6:Delay_fn	16	static
+main.c:143:6:MYOUTPUT	4	static
+main.c:161:6:INPUT	4	static

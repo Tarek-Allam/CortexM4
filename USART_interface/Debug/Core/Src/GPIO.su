@@ -1,0 +1,4 @@
+GPIO.c:49:6:GPIO_EnableClock	16	static
+GPIO.c:62:6:GPIO_Init	16	static
+GPIO.c:78:15:GPIO_WritePin	24	static
+GPIO.c:98:15:GPIO_ReadPin	24	static

@@ -1,0 +1,5 @@
+main.c:35:6:Delay_fn	16	static
+main.c:40:5:main	8	static
+main.c:84:6:UART2_SendChar	16	static
+main.c:103:6:UART2_GetChar	16	static
+main.c:117:6:UART2_SendString	24	static

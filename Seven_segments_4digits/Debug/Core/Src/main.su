@@ -1,0 +1,5 @@
+main.c:29:6:SevenSegment_Update	16	static
+main.c:38:6:Delay_fn	16	static
+main.c:44:6:Increament	4	static
+main.c:51:6:Decrement	4	static
+main.c:57:5:main	16	static

@@ -1,0 +1,5 @@
+main.c:24:5:main	16	static
+main.c:86:6:Delay_fn	16	static
+main.c:92:6:Increament	4	static
+main.c:99:6:Decrement	4	static
+main.c:105:6:Display	16	static
